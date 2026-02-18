@@ -69,7 +69,6 @@ yarn.lock
 
 # Java
 *.class
-*.log
 *.jar
 *.war
 *.nar
@@ -95,7 +94,6 @@ mvnw.cmd
 # LaTeX
 *.aux
 *.lof
-*.log
 *.lot
 *.fls
 *.out
@@ -142,7 +140,6 @@ temp/
 *.dll
 *.exe
 *.o
-*.so
 
 # Data Files (uncomment if needed)
 # data/
